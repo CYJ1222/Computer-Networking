@@ -1,10 +1,10 @@
-# A Katex and material-theme mkdocs template
+# Computer Networking homework
 
-This is a template for mkdosc
+Homework solution for CS3311
 
 ## Author
 
-![cover](./docs/assets/cover.jpeg)
+[![cover](./docs/assets/cover.jpeg)]
 
 ## License
 
