@@ -4,7 +4,7 @@ Homework solution for CS3311
 
 ## Author
 
-[![cover](../docs/assets/cover.jpeg)]
+![cover](./assets/cover.jpeg)
 
 ## License
 

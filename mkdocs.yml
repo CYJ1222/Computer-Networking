@@ -1,10 +1,10 @@
-site_name: template
-site_description: A template for mkdocs
+site_name: Computer-Networking
+site_description: Computer-Networking homework and notes
 site_author: icefox-saber
-site_url: https://icefox-saber.github.io/mkdocs-template/
+site_url: https://icefox-saber.github.io/Computer-Networking/
 
-repo_name: icefox-saber/mkdocs-template
-repo_url: https://github.com/icefox-saber/mkdocs-template
+repo_name: icefox-saber/Computer-Networking
+repo_url: https://github.com/icefox-saber/Computer-Networking
 
 theme:
   name: material
@@ -67,3 +67,5 @@ markdown_extensions:
 
 nav:
   - Preface: index.md
+  - homework:
+      - ./homework/chap01.md
